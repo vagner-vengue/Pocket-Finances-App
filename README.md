@@ -25,6 +25,7 @@ Features:
 - [Expo][expo]
 - [Node.js][nodejs]
 
+
 ## 💡 The application
 
 <p align="left" style="display: flex; align-items: flex-start; justify-content: center; padding: 5px;">
@@ -42,7 +43,7 @@ Features:
 
 This application is protected by license, please verify all the details at: [https://pocketfinances.vercel.app](https://pocketfinances.vercel.app/)
 
-It was created by Vagner Vengue. ([LinkedIn])
+Created by Vagner Vengue. ([LinkedIn])
 
 
 [LinkedIn]: https://br.linkedin.com/in/vagner-vengue
