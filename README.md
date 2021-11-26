@@ -11,15 +11,24 @@ Features:
 ** All data entered in the application is saved on the local device, in order to keep data privacy.
 
 
-#### Link for Google Play Store: [https://play.google.com/store/apps/details?id=com.vagnercpp.pocketfinances](https://play.google.com/store/apps/details?id=com.vagnercpp.pocketfinances)
+#### Available in Google Play Store at: [https://play.google.com/store/apps/details?id=com.vagnercpp.pocketfinances](https://play.google.com/store/apps/details?id=com.vagnercpp.pocketfinances)
 
 
 ## 🛠 Technologies and concepts
-
+- [React Native][rn]
+- [ReactJS][reactjs]
+- [Context API][context]
+- [React Hooks][hooks]
+- [TypeScript][typescript]
+- [Google Play][googleplay]
+- [Vercel][vercel]
+- [Expo][expo]
+- [Node.js][nodejs]
 
 ## 💡 The application
 
 <p align="left" style="display: flex; align-items: flex-start; justify-content: center; padding: 5px;">
+  
   <img alt="Splash-Screen" title="Splash-Screen" src="./github-assets/Splash-Screen.jpg" width="200px">
   <img alt="Login Screen" title="Login-Screen" src="./github-assets/Login-Screen.jpg" width="200px">
   <img alt="Home-Screen" title="Home-Screen" src="./github-assets/Home-Screen.jpg" width="200px">
@@ -37,3 +46,12 @@ It was created by Vagner Vengue. ([LinkedIn])
 
 
 [LinkedIn]: https://br.linkedin.com/in/vagner-vengue
+[rn]: https://facebook.github.io/react-native/
+[reactjs]: https://reactjs.org
+[context]: https://reactjs.org/docs/context.html
+[hooks]: https://reactjs.org/docs/hooks-intro.html
+[typescript]: https://www.typescriptlang.org/
+[googleplay]: https://play.google.com/store
+[Vercel]: https://vercel.com/
+[expo]: https://expo.io/
+[nodejs]: https://nodejs.org/
