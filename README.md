@@ -16,6 +16,7 @@ Features:
 
 ## 🛠 Technologies and concepts
 - [React Native][rn]
+- [Styled-Components][styled-components]
 - [ReactJS][reactjs]
 - [Context API][context]
 - [React Hooks][hooks]
@@ -56,3 +57,4 @@ Created by Vagner Vengue. ([LinkedIn])
 [Vercel]: https://vercel.com/
 [expo]: https://expo.io/
 [nodejs]: https://nodejs.org/
+[styled-components]: https://styled-components.com/
