@@ -11,14 +11,16 @@ Features:
 ** All data entered in the application is saved on the local device, in order to keep data privacy.
 
 
-#### Link for Google Play Store: [https://play.google.com/store/apps/details?id=com.vagnercpp.pocketfinances](https://play.google.com/store/apps/details?id=com.vagnercpp.pocketfinances/)
+#### Link for Google Play Store: [https://play.google.com/store/apps/details?id=com.vagnercpp.pocketfinances](https://play.google.com/store/apps/details?id=com.vagnercpp.pocketfinances)
+
 
 ## 🛠 Technologies and concepts
 
 
 ## 💡 The application
 
-<p align="center">
+<p align="left" style="display: flex; align-items: flex-start; justify-content: center; padding: 5px;">
+  <img alt="Splash-Screen" title="Splash-Screen" src="./github-assets/Splash-Screen.jpg" width="200px">
   <img alt="Login Screen" title="Login-Screen" src="./github-assets/Login-Screen.jpg" width="200px">
   <img alt="Home-Screen" title="Home-Screen" src="./github-assets/Home-Screen.jpg" width="200px">
   <img alt="Record-Screen" title="Record-Screen" src="./github-assets/Record-Screen.jpg" width="200px">
