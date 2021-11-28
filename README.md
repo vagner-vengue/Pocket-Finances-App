@@ -8,6 +8,7 @@ Features:
 - Reports of monthly expenses per category.
 
 ** It is necessary to login with a Google account which allows the app to access your name, email and photo.
+
 ** All data entered in the application is saved on the local device, in order to keep data privacy.
 
 
